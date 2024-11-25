@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sp3.props" />
+</Project>
